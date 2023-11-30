@@ -1,0 +1,16 @@
+{
+  "name": "mastertet",
+  "version": "1.0.0",
+  "description": "MasterTet slideshow converter",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/main.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "ffcreatorlite": "^2.5.1",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
